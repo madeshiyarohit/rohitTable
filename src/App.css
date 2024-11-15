@@ -1,0 +1,87 @@
+#root {
+
+  text-align: center;
+  width: 100%;
+  position: inherit;
+  position: relative;
+  min-height: 100vh;
+
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #242537aa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.mainTable {
+  position: relative;
+  width: 100%;
+}
+
+.modelBox {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border: 2px solid #fff;
+  background-color: rgb(0, 0, 0.3);
+
+  transform: translate(-50%, -50%);
+  padding: 16px;
+
+  min-width: 300px;
+  aspect-ratio: 1/1;
+}
+
+form {
+  width: 100%;
+}
+
+form div input {
+  width: 70%;
+  box-sizing: border-box;
+}
+
+table,
+tr,
+td {
+  border: 2px solid #fff;
+  border-collapse: collapse;
+}
+
+table {
+  width: 100%;
+}

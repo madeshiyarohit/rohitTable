@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Software Engineer",
+        "department": "IT"
+    },
+    {
+        "id": 2,
+        "name": "Marketing Manager",
+        "department": "Marketing"
+    },
+    {
+        "id": 3,
+        "name": "HR Generalist",
+        "department": "HR"
+    },
+    {
+        "id": 4,
+        "name": "Financial Analyst",
+        "department": "Finance"
+    },
+    {
+        "id": "5",
+        "name": "Manager",
+        "department": "Engineer"
+    },
+    {
+        "id": "6",
+        "name": "TL",
+        "department": "Engineer"
+    },
+    {
+        "id": 7,
+        "name": "Software Engineer",
+        "department": "IT"
+    },
+    {
+        "id": 8,
+        "name": "Marketing Manager",
+        "department": "Marketing"
+    },
+    {
+        "id": 9,
+        "name": "HR Generalist",
+        "department": "HR"
+    },
+    {
+        "id": 10,
+        "name": "Financial Analyst",
+        "department": "Finance"
+    },
+    {
+        "id": "11",
+        "name": "Manager",
+        "department": "Engineer"
+    },
+    {
+        "id": 12,
+        "name": "Software Engineer",
+        "department": "IT"
+    },
+    {
+        "id": 13,
+        "name": "Marketing Manager",
+        "department": "Marketing"
+    },
+    {
+        "id": 14,
+        "name": "HR Generalist",
+        "department": "HR"
+    },
+    {
+        "id": 15,
+        "name": "Financial Analyst",
+        "department": "Finance"
+    },
+    {
+        "id": "16",
+        "name": "Manager",
+        "department": "Engineer"
+    }
+]
